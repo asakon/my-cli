@@ -2,6 +2,7 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <p>こんにちは！</p>
   </div>
 </template>
 
@@ -25,4 +26,10 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+</style>
+<style scoped>
+  p {
+    border: 4px solid #aaa;
+    background-color: bisque;
+  }
 </style>

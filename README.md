@@ -1,5 +1,19 @@
 # my-cli
 
+## コマンドメモ
+
+### vue serve
+
+.vue ファイルをプロジェクト作成なしに簡単に実行するコマンド
+
+### vue ui
+
+Vue CLIプロジェクトをGUI管理するアプリを起動する
+
+## 概念
+
+### 単一ファイルコンポーネント
+
 ## Project setup
 ```
 npm install
