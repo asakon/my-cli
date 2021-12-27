@@ -1,5 +1,9 @@
 # my-cli
 
+『これからはじめるVue.js実践入門』の「応用編」を読んで学習している
+
+出版社ページ：https://www.sbcr.jp/product/4815601829/
+
 ## Project setup
 ```
 npm install
